@@ -14,6 +14,7 @@ public class EmailValidator {
 
 		public EmailValidator() {
 			pattern = Pattern.compile(EMAIL_PATTERN);
+			System.out.println("helo");
 		}
 
 		/**

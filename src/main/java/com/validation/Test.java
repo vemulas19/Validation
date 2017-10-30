@@ -8,6 +8,6 @@ public class Test {
 	public static void main(String[] args) {
 		List l = new ArrayList();
 		l.add("sdkfjs ");
-		List a = new HashMap();
+		List a = new ArrayList();
 	}   
 }

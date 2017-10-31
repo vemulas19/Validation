@@ -6,8 +6,8 @@ import java.util.List;
 public class Test {
 
 	public static void main(String[] args) {
-		List l = new ArrayList();
+		List<String> l = new ArrayList<String>();
 		l.add("sdkfjs  ");
-		List a = new ArrayList();
-	}   
+		List<String> a = new ArrayList<String>();
+	}
 }

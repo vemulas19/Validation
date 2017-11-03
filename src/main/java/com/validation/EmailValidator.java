@@ -11,8 +11,12 @@ public class EmailValidator {
 			System.out.println("this is My Second Validation In First Branch");
 			matcher = pattern.matcher(hex);
 			System.out.println("hi");
+			System.out.println("sagar validation");
 			return matcher.matches();
+			
 
 		}
+		
+		
 	}
 
